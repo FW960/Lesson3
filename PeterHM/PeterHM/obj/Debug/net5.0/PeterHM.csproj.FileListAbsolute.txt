@@ -1,0 +1,16 @@
+C:\Users\windo\OneDrive\Рабочий стол\Lesson3\PeterHM\PeterHM\bin\Debug\net5.0\PeterHM.exe
+C:\Users\windo\OneDrive\Рабочий стол\Lesson3\PeterHM\PeterHM\bin\Debug\net5.0\PeterHM.deps.json
+C:\Users\windo\OneDrive\Рабочий стол\Lesson3\PeterHM\PeterHM\bin\Debug\net5.0\PeterHM.runtimeconfig.json
+C:\Users\windo\OneDrive\Рабочий стол\Lesson3\PeterHM\PeterHM\bin\Debug\net5.0\PeterHM.runtimeconfig.dev.json
+C:\Users\windo\OneDrive\Рабочий стол\Lesson3\PeterHM\PeterHM\bin\Debug\net5.0\PeterHM.dll
+C:\Users\windo\OneDrive\Рабочий стол\Lesson3\PeterHM\PeterHM\bin\Debug\net5.0\ref\PeterHM.dll
+C:\Users\windo\OneDrive\Рабочий стол\Lesson3\PeterHM\PeterHM\bin\Debug\net5.0\PeterHM.pdb
+C:\Users\windo\OneDrive\Рабочий стол\Lesson3\PeterHM\PeterHM\obj\Debug\net5.0\PeterHM.csproj.AssemblyReference.cache
+C:\Users\windo\OneDrive\Рабочий стол\Lesson3\PeterHM\PeterHM\obj\Debug\net5.0\PeterHM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windo\OneDrive\Рабочий стол\Lesson3\PeterHM\PeterHM\obj\Debug\net5.0\PeterHM.AssemblyInfoInputs.cache
+C:\Users\windo\OneDrive\Рабочий стол\Lesson3\PeterHM\PeterHM\obj\Debug\net5.0\PeterHM.AssemblyInfo.cs
+C:\Users\windo\OneDrive\Рабочий стол\Lesson3\PeterHM\PeterHM\obj\Debug\net5.0\PeterHM.csproj.CoreCompileInputs.cache
+C:\Users\windo\OneDrive\Рабочий стол\Lesson3\PeterHM\PeterHM\obj\Debug\net5.0\PeterHM.dll
+C:\Users\windo\OneDrive\Рабочий стол\Lesson3\PeterHM\PeterHM\obj\Debug\net5.0\ref\PeterHM.dll
+C:\Users\windo\OneDrive\Рабочий стол\Lesson3\PeterHM\PeterHM\obj\Debug\net5.0\PeterHM.pdb
+C:\Users\windo\OneDrive\Рабочий стол\Lesson3\PeterHM\PeterHM\obj\Debug\net5.0\PeterHM.genruntimeconfig.cache
